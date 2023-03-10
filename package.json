@@ -1,0 +1,27 @@
+{
+  "name": "websocket-request",
+  "version": "1.2.3",
+  "description": "Made websocket to Request response mode. Imitate the request and response mode of HTTP, send a request and wait for the response to return.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test"
+  },
+  "keywords": [
+    "ws-request",
+    "websocket-request",
+    "request",
+    "websocket",
+    "response",
+    "websocket http"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/npm-packages/websocket-request.git"
+  },
+  "author": "chenbinfa",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.6.0"
+  }
+}
