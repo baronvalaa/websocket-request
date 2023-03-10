@@ -6,6 +6,7 @@ Made websocket to Request response mode.
 
 Imitate the request and response mode of HTTP, send a request and wait for the response to return.
 
+Allows you to use websocket just like http requests
 
 ## How use
 
